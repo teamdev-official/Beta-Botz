@@ -1,11 +1,11 @@
-#hai aku Beta Botz dan disini aku masih pemula
+#hai aku Beta Botz dan disini aku masih pemula\n
 #Dan tolong jangan di jual ya scnya kak
 
 
 <p align="center">
 	<img src="https://i.postimg.cc/8C6f1qF7/94ee7bdbbee778ef207f73b5a675a010.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">Beta Botz</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
