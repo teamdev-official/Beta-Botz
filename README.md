@@ -1,5 +1,4 @@
-#hai aku Beta Botz dan disini aku masih pemula\n
-#Dan tolong jangan di jual ya scnya kak
+#hai aku Beta Botz dan disini aku masih pemula Dan tolong jangan di jual ya scnya kak
 
 
 <p align="center">
