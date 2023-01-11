@@ -79,6 +79,7 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
 ## THANKS TO
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`teamdev-official`](https://github.com/teamdev-official)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Faiz`](https://github.com/FaizBastomi)
