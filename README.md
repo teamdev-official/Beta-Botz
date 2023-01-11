@@ -1,28 +1,19 @@
-# CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+#hai aku Beta Botz dan disini aku masih pemula
+#Dan tolong jangan di jual ya scnya kak
 
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
-
-Best Regards. Hisoka
-
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
-
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.postimg.cc/8C6f1qF7/94ee7bdbbee778ef207f73b5a675a010.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Hisoka-Morou</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+* New script to replace this script [`look here`](https://github.com/teamdev-official/Beta-Botz) (`Support Legacy or Baileys`)
+* WhatsApp Bot normal [`Teamdev-official`](https://github.com/teamdev-official/Beta-Botz)
+* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/teamdev-official/Beta-Botz)
+* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/teamdev-official/Beta-Botz)
 
 ## HEROKU BUILDPACK
 ```bash
@@ -40,8 +31,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/teamdev-official/Beta-Botz
+cd beta
 npm install
 ```
 
@@ -62,7 +53,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/teamdev-official/Beta-Botz
 cd Hisoka-Morou
 npm install
 ```
